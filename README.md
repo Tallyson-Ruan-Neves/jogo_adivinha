@@ -1,2 +1,2 @@
 # jogo
-jogo feito com pygame
+jogo feito com python de maneira simples!!
